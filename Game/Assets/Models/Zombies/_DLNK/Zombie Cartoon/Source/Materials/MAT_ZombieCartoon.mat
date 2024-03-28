@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MAT_ZombieCartoon
+  m_Shader: {fileID: 4800000, guid: 215f2de6740eacc4fa71b4a1dee1e5e5, type: 3}
+  m_ShaderKeywords: _TINTENABLE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 2800000, guid: 925d4bb2c4e3dbe4389cf04d5afe6a95, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _HeightOccTrans:
+        m_Texture: {fileID: 2800000, guid: 6a3317eabf368e443b1a5bea87dfb7f9, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: ce105b73d5d4dec489ee8b610044ffc5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTexture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Normal:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Normalmap:
+        m_Texture: {fileID: 2800000, guid: 9121bee82f20ae8458f90152f60fc6a4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TintMask:
+        m_Texture: {fileID: 2800000, guid: 51b57cdfebaa5e049956aaefa0e1488d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _node_105:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _quecojones:
+        m_Texture: {fileID: 2800000, guid: d7c23120784aec24f918f0ddc02f1295, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _AmbientPower: 4.48
+    - _OcclusionPower: 1
+    - _OutlineWidth: 0.01
+    - _OutlineWith: 0.01
+    - _Shininess: 1
+    - _Specular: 0
+    - _TintEnable: 1
+    - _TransPower: 4
+    - _UseLightColor: 0
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _ColorA: {r: 0.2228401, g: 0.1956099, b: 0.9852941, a: 1}
+    - _ColorARGBGlossA: {r: 0.570791, g: 0.32352942, b: 1, a: 0.13333334}
+    - _ColorB: {r: 0.4068966, g: 1, b: 0, a: 1}
+    - _ColorBRGBGlossA: {r: 1, g: 0.007352948, b: 0.027890308, a: 0.07450981}
+    - _ColorC: {r: 1, g: 1, b: 1, a: 1}
+    - _ColorCRGBGlossA: {r: 0.9862069, g: 1, b: 0.75, a: 0.9607843}
+    - _ColorD: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    - _ColorDRGBGlossA: {r: 0.64705884, g: 1, b: 0.6787018, a: 0.153}
+    - _OutlineColor: {r: 0.22625579, g: 0.29411763, b: 0.09731834, a: 1}
+    - _SpecColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    - _TransColor: {r: 0.40268162, g: 0.5494719, b: 0.97794116, a: 1}

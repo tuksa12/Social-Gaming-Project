@@ -1,0 +1,140 @@
+fileFormatVersion: 2
+guid: 3d70d4e1320891e4ba93a693d355fa32
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ZombieCartoon RIGHead
+    100002: ZombieCartoon RIGLCalf
+    100004: ZombieCartoon RIGLCollarbone
+    100006: ZombieCartoon RIGLDigit11
+    100008: ZombieCartoon RIGLDigit11 1
+    100010: ZombieCartoon RIGLDigit12
+    100012: ZombieCartoon RIGLDigit21
+    100014: ZombieCartoon RIGLDigit22
+    100016: ZombieCartoon RIGLFoot
+    100018: ZombieCartoon RIGLForearm
+    100020: ZombieCartoon RIGLPalm
+    100022: ZombieCartoon RIGLThigh
+    100024: ZombieCartoon RIGLUpperarm
+    100026: ZombieCartoon RIGNeck
+    100028: ZombieCartoon RIGPelvis
+    100030: ZombieCartoon RIGRArmCollarbone
+    100032: ZombieCartoon RIGRArmDigit11
+    100034: ZombieCartoon RIGRArmDigit12
+    100036: ZombieCartoon RIGRArmDigit21
+    100038: ZombieCartoon RIGRArmDigit22
+    100040: ZombieCartoon RIGRArmForearm
+    100042: ZombieCartoon RIGRArmPalm
+    100044: ZombieCartoon RIGRArmUpperarm
+    100046: ZombieCartoon RIGRibcage
+    100048: ZombieCartoon RIGRLegCalf
+    100050: ZombieCartoon RIGRLegDigit11
+    100052: ZombieCartoon RIGRLegFoot
+    100054: ZombieCartoon RIGRLegThigh
+    100056: ZombieCartoon RIGSpine1
+    100058: ZombieCartoon RIGSpine2
+    100060: ZombieCartoon RIGSpine3
+    100062: //RootNode
+    400000: ZombieCartoon RIGHead
+    400002: ZombieCartoon RIGLCalf
+    400004: ZombieCartoon RIGLCollarbone
+    400006: ZombieCartoon RIGLDigit11
+    400008: ZombieCartoon RIGLDigit11 1
+    400010: ZombieCartoon RIGLDigit12
+    400012: ZombieCartoon RIGLDigit21
+    400014: ZombieCartoon RIGLDigit22
+    400016: ZombieCartoon RIGLFoot
+    400018: ZombieCartoon RIGLForearm
+    400020: ZombieCartoon RIGLPalm
+    400022: ZombieCartoon RIGLThigh
+    400024: ZombieCartoon RIGLUpperarm
+    400026: ZombieCartoon RIGNeck
+    400028: ZombieCartoon RIGPelvis
+    400030: ZombieCartoon RIGRArmCollarbone
+    400032: ZombieCartoon RIGRArmDigit11
+    400034: ZombieCartoon RIGRArmDigit12
+    400036: ZombieCartoon RIGRArmDigit21
+    400038: ZombieCartoon RIGRArmDigit22
+    400040: ZombieCartoon RIGRArmForearm
+    400042: ZombieCartoon RIGRArmPalm
+    400044: ZombieCartoon RIGRArmUpperarm
+    400046: ZombieCartoon RIGRibcage
+    400048: ZombieCartoon RIGRLegCalf
+    400050: ZombieCartoon RIGRLegDigit11
+    400052: ZombieCartoon RIGRLegFoot
+    400054: ZombieCartoon RIGRLegThigh
+    400056: ZombieCartoon RIGSpine1
+    400058: ZombieCartoon RIGSpine2
+    400060: ZombieCartoon RIGSpine3
+    400062: //RootNode
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

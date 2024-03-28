@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 215f2de6740eacc4fa71b4a1dee1e5e5
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _MainTex: {fileID: 2800000, guid: 0b3a4f8834f265647a2936f082b684b5, type: 3}
+  - _Normalmap: {fileID: 2800000, guid: 925d4bb2c4e3dbe4389cf04d5afe6a95, type: 3}
+  - _TintMask: {fileID: 2800000, guid: d7c23120784aec24f918f0ddc02f1295, type: 3}
+  - _HeightOccTrans: {fileID: 2800000, guid: aa4fa9d366778434487bfe578f342a8c, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

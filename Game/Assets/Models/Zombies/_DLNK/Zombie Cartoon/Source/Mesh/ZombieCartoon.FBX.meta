@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: d04e08e3fcacc044ca904a7613e313f0
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Weapon
+    100002: //RootNode
+    100004: ZombieCartoon RIGHead
+    100006: ZombieCartoon RIGLCalf
+    100008: ZombieCartoon RIGLCollarbone
+    100010: ZombieCartoon RIGLDigit11
+    100012: ZombieCartoon RIGLDigit11 1
+    100014: ZombieCartoon RIGLDigit12
+    100016: ZombieCartoon RIGLDigit21
+    100018: ZombieCartoon RIGLDigit22
+    100020: ZombieCartoon RIGLFoot
+    100022: ZombieCartoon RIGLForearm
+    100024: ZombieCartoon RIGLPalm
+    100026: ZombieCartoon RIGLPlatform
+    100028: ZombieCartoon RIGLThigh
+    100030: ZombieCartoon RIGLUpperarm
+    100032: ZombieCartoon RIGNeck
+    100034: ZombieCartoon RIGPelvis
+    100036: ZombieCartoon RIGRArmCollarbone
+    100038: ZombieCartoon RIGRArmDigit11
+    100040: ZombieCartoon RIGRArmDigit12
+    100042: ZombieCartoon RIGRArmDigit21
+    100044: ZombieCartoon RIGRArmDigit22
+    100046: ZombieCartoon RIGRArmForearm
+    100048: ZombieCartoon RIGRArmPalm
+    100050: ZombieCartoon RIGRArmUpperarm
+    100052: ZombieCartoon RIGRibcage
+    100054: ZombieCartoon RIGRLegCalf
+    100056: ZombieCartoon RIGRLegDigit11
+    100058: ZombieCartoon RIGRLegFoot
+    100060: ZombieCartoon RIGRLegPlatform
+    100062: ZombieCartoon RIGRLegThigh
+    100064: ZombieCartoon RIGSpine1
+    100066: ZombieCartoon RIGSpine2
+    100068: ZombieCartoon RIGSpine3
+    100070: ZombieCartoon Skin
+    100072: Box002
+    100074: Box003
+    400000: Weapon
+    400002: //RootNode
+    400004: ZombieCartoon RIGHead
+    400006: ZombieCartoon RIGLCalf
+    400008: ZombieCartoon RIGLCollarbone
+    400010: ZombieCartoon RIGLDigit11
+    400012: ZombieCartoon RIGLDigit11 1
+    400014: ZombieCartoon RIGLDigit12
+    400016: ZombieCartoon RIGLDigit21
+    400018: ZombieCartoon RIGLDigit22
+    400020: ZombieCartoon RIGLFoot
+    400022: ZombieCartoon RIGLForearm
+    400024: ZombieCartoon RIGLPalm
+    400026: ZombieCartoon RIGLPlatform
+    400028: ZombieCartoon RIGLThigh
+    400030: ZombieCartoon RIGLUpperarm
+    400032: ZombieCartoon RIGNeck
+    400034: ZombieCartoon RIGPelvis
+    400036: ZombieCartoon RIGRArmCollarbone
+    400038: ZombieCartoon RIGRArmDigit11
+    400040: ZombieCartoon RIGRArmDigit12
+    400042: ZombieCartoon RIGRArmDigit21
+    400044: ZombieCartoon RIGRArmDigit22
+    400046: ZombieCartoon RIGRArmForearm
+    400048: ZombieCartoon RIGRArmPalm
+    400050: ZombieCartoon RIGRArmUpperarm
+    400052: ZombieCartoon RIGRibcage
+    400054: ZombieCartoon RIGRLegCalf
+    400056: ZombieCartoon RIGRLegDigit11
+    400058: ZombieCartoon RIGRLegFoot
+    400060: ZombieCartoon RIGRLegPlatform
+    400062: ZombieCartoon RIGRLegThigh
+    400064: ZombieCartoon RIGSpine1
+    400066: ZombieCartoon RIGSpine2
+    400068: ZombieCartoon RIGSpine3
+    400070: ZombieCartoon Skin
+    400072: Box002
+    400074: Box003
+    2300000: Weapon
+    2300002: Box002
+    2300004: Box003
+    3300000: Weapon
+    3300002: Box002
+    3300004: Box003
+    4300000: ZombieCartoon Skin
+    4300002: Weapon
+    4300004: Box003
+    4300006: Box002
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: ZombieCartoon Skin
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 180
+    normalImportMode: 1
+    tangentImportMode: 2
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
